@@ -1,1 +1,1 @@
-## Hi I'm Komiljon Ro'ziyev  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdmeHhnamJsMW5zZTZzcTZkMDI4ZG11czVoazk3Z2Q3end0ZzVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.webp" width='30px'>
+## Hi I'm Komiljon Ro'ziyev  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdmeHhnamJsMW5zZTZzcTZkMDI4ZG11czVoazk3Z2Q3end0ZzVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.webp" width='100px'>
